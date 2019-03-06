@@ -1,0 +1,46 @@
+{
+  "name": "comment-record",
+  "version": "1.0.0",
+  "description": "record pr comments",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoYiRis/Review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoYiRis/Review/issues"
+  },
+  "homepage": "https://github.com/JoYiRis/Review#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.4",
+    "bootstrap": "^4.1.3",
+    "classnames": "^2.2.6",
+    "css-loader": "^1.0.1",
+    "eslint": "^5.9.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.10.0",
+    "popper.js": "^1.14.5",
+    "postcss-loader": "^3.0.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}

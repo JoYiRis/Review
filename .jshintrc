@@ -1,0 +1,16 @@
+{
+    "esversion": 6,
+    "globals": {
+        "$": false,
+        "window": false,
+        "document":false
+    },
+    "node": true,
+    "curly": true,
+    "eqeqeq": true,
+    "noarg": true,
+    "noempty": true,
+    "quotmark": "single",
+    "undef": true,
+    "unused": true
+}
